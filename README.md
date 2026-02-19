@@ -1,9 +1,8 @@
 ## Olá 👋👋, Eu sou o Matheus Sossai
 
-- 🌱 Estou cursnado Análise e Desenvolvimento de Sistemas na Unicesumar
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar
 - 👾 Sou um jovem de 18 anos
 - 🤔 Pretendo seguir na carreira de Cyber Segurança
-- ⚡ Fun fact: idk btw kekw
   
 
 <div>
