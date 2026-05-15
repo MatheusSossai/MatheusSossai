@@ -30,15 +30,6 @@ Tecnologias com as quais já trabalho/estudo e tenho familiaridade:
 
 ---
 
-## Estatísticas do GitHub ##
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## contatos
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-bueno-sossai)
