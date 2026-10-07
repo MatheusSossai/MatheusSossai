@@ -37,7 +37,10 @@ Tecnologias com as quais já tenho familiaridade:
 
 
 
-![animação da cobrinha](https://githubusercontent.com)
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/MatheusSossai/MatheusSossai/output/github-contribution-grid-snake.svg)
+
 
 ---
 ## contatos
